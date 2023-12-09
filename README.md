@@ -3,15 +3,15 @@ My journey of learning courses that I took from tcm security learning &amp; prep
 
 Here I will post my learnings on the following bundle of 5 courses available to us, For preparation of the PNPT Certification.
 
---> **Practical Ethical Hacking Course :** _
->> Does Covers 25 CEU hours of up to date practical hacking techniques with absolutely no filler.
->> Scanning & Enumeration, Exploitation, Almost every Active Directory Attacks, Post Exploitation Attacks & Also Web Application Penetration Testing
-_
-**
---> Windows Privilege Escalation
+--> **Practical Ethical Hacking Course :** 
+>> _Does Covers 25 CEU hours of up to date practical hacking techniques with absolutely no filler._
+>> _Scanning & Enumeration, Exploitation, Almost every Active Directory Attacks, Post Exploitation Attacks & Also Web Application Penetration Testing_
 
---> Linux Privilege Escalation
 
---> Open Source Intelligence (OSINT)
+--> **Windows Privilege Escalation**
 
---> External Pentest Playbook.**
+--> **Linux Privilege Escalation**
+
+--> **Open Source Intelligence (OSINT)**
+
+--> **External Pentest Playbook.**
