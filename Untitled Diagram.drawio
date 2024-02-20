@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T21:04:25.511Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="mtq-NBVvQywDwjK0v4WS" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-20T21:10:25.103Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="GFHbjYQWESB13009C87H" version="23.1.5" type="github">
   <diagram name="Page-1" id="ySLnkxv4tIxl38ntkLWm">
     <mxGraphModel dx="1050" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AurtSrvM-RX5mC69tx55-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-340" width="330" height="270" as="geometry" />
+        </mxCell>
         <mxCell id="AurtSrvM-RX5mC69tx55-2" value="" style="shape=mxgraph.cisco.buildings.branch_office;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="59" y="401" width="51" height="75" as="geometry" />
         </mxCell>
@@ -20,11 +23,11 @@
         <mxCell id="AurtSrvM-RX5mC69tx55-5" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;" vertex="1" parent="1">
           <mxGeometry x="34.5" y="70" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AurtSrvM-RX5mC69tx55-6" value="" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Computer_Private_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="414" y="-260" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="AurtSrvM-RX5mC69tx55-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iCloudProgressBar;barPos=20;" vertex="1" parent="1">
-          <mxGeometry x="410" y="120" width="150" height="10" as="geometry" />
+          <mxGeometry x="410" y="120" width="260" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="AurtSrvM-RX5mC69tx55-6" value="" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Computer_Private_128x128.png;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="-256" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AurtSrvM-RX5mC69tx55-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="AurtSrvM-RX5mC69tx55-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -39,6 +42,33 @@
           <mxGeometry x="33.5" y="-180" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AurtSrvM-RX5mC69tx55-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.411;entryY=0.917;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AurtSrvM-RX5mC69tx55-7" target="AurtSrvM-RX5mC69tx55-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AurtSrvM-RX5mC69tx55-13" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iCloudProgressBar;barPos=20;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="298.5" y="230.5" width="231" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="AurtSrvM-RX5mC69tx55-14" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iCloudProgressBar;barPos=20;" vertex="1" parent="1">
+          <mxGeometry x="415" y="350" width="245" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="AurtSrvM-RX5mC69tx55-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iCloudProgressBar;barPos=20;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="550" y="240" width="230" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="AurtSrvM-RX5mC69tx55-16" value="&lt;b&gt;DMZ&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="465" y="98" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AurtSrvM-RX5mC69tx55-17" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="474" y="150" width="65.6" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AurtSrvM-RX5mC69tx55-18" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.admin_console" vertex="1" parent="1">
+          <mxGeometry x="560" y="172" width="50" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="AurtSrvM-RX5mC69tx55-19" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.portal_admin;" vertex="1" parent="1">
+          <mxGeometry x="520" y="250" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AurtSrvM-RX5mC69tx55-20" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;REAL NETWORK&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="125" y="225" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AurtSrvM-RX5mC69tx55-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.587;entryY=0.97;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AurtSrvM-RX5mC69tx55-11" target="AurtSrvM-RX5mC69tx55-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
