@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T03:49:13.048Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="2acFZpQDimolyxFK8jYq" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-21T03:56:58.179Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="ROOBMQPXwc6WWgIENto8" version="23.1.5" type="github">
   <diagram name="Page-1" id="ySLnkxv4tIxl38ntkLWm">
     <mxGraphModel dx="1050" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -26,16 +26,15 @@
         <mxCell id="AurtSrvM-RX5mC69tx55-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iCloudProgressBar;barPos=20;" vertex="1" parent="1">
           <mxGeometry x="410" y="120" width="260" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="AurtSrvM-RX5mC69tx55-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AurtSrvM-RX5mC69tx55-6" target="AurtSrvM-RX5mC69tx55-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="AurtSrvM-RX5mC69tx55-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="AurtSrvM-RX5mC69tx55-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="345" y="-216" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="AurtSrvM-RX5mC69tx55-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AurtSrvM-RX5mC69tx55-6">
+        <mxCell id="AurtSrvM-RX5mC69tx55-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AurtSrvM-RX5mC69tx55-46">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="385" y="130" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="AurtSrvM-RX5mC69tx55-6" value="" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Computer_Private_128x128.png;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="345" y="-256" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AurtSrvM-RX5mC69tx55-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="AurtSrvM-RX5mC69tx55-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -89,7 +88,7 @@
           <mxGeometry x="170" y="468" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AurtSrvM-RX5mC69tx55-34" value="&lt;b&gt;10.0.0.11&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="375" y="-270" width="70" height="30" as="geometry" />
+          <mxGeometry x="344" y="-270" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AurtSrvM-RX5mC69tx55-35" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
           <mxGeometry x="320" y="85" width="80" height="80" as="geometry" />
@@ -100,17 +99,17 @@
         <mxCell id="AurtSrvM-RX5mC69tx55-38" value="&lt;b&gt;172.168.1.24&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="315" y="142" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AurtSrvM-RX5mC69tx55-39" value="" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Server_Private_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="345" y="-100" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="AurtSrvM-RX5mC69tx55-40" value="&lt;b&gt;Cloud Private Server&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="325" y="-30" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AurtSrvM-RX5mC69tx55-41" value="&lt;b&gt;Dionaea-Honeypot&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="510" y="-300" width="130" height="30" as="geometry" />
+          <mxGeometry x="455" y="-190" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AurtSrvM-RX5mC69tx55-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AurtSrvM-RX5mC69tx55-42" target="AurtSrvM-RX5mC69tx55-49">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AurtSrvM-RX5mC69tx55-42" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/551_Alert_antivirus_attack_computer_virus_cyber_spot_security-128.png" vertex="1" parent="1">
-          <mxGeometry x="539.6" y="-280" width="56" height="56" as="geometry" />
+          <mxGeometry x="494" y="-243" width="56" height="56" as="geometry" />
         </mxCell>
         <mxCell id="AurtSrvM-RX5mC69tx55-43" value="&lt;b&gt;DB&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="474" y="225" width="40" height="30" as="geometry" />
@@ -120,6 +119,36 @@
         </mxCell>
         <mxCell id="AurtSrvM-RX5mC69tx55-45" value="&lt;b&gt;Service Accounts&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="529.5" y="200.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AurtSrvM-RX5mC69tx55-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="AurtSrvM-RX5mC69tx55-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="130" as="targetPoint" />
+            <mxPoint x="385" y="-176" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AurtSrvM-RX5mC69tx55-46" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
+          <mxGeometry x="345" y="-90" width="79.37" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AurtSrvM-RX5mC69tx55-49" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/operating-system-flat-1/30/ubuntu-128.png" vertex="1" parent="1">
+          <mxGeometry x="345" y="-250" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AurtSrvM-RX5mC69tx55-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AurtSrvM-RX5mC69tx55-52" target="AurtSrvM-RX5mC69tx55-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AurtSrvM-RX5mC69tx55-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AurtSrvM-RX5mC69tx55-52" target="AurtSrvM-RX5mC69tx55-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AurtSrvM-RX5mC69tx55-52" value="" style="fillColor=#28A8E0;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.anomaly_detection;" vertex="1" parent="1">
+          <mxGeometry x="630" y="-236.5" width="40" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="AurtSrvM-RX5mC69tx55-53" value="&lt;b&gt;IDS&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="630" y="-190" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AurtSrvM-RX5mC69tx55-55" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#DD344C;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.detective;" vertex="1" parent="1">
+          <mxGeometry x="650" y="360" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="AurtSrvM-RX5mC69tx55-56" value="&lt;b&gt;Intelligence Team&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="625" y="438" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
